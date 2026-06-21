@@ -52,7 +52,3 @@ Open and run `Spasial_LagX_FINAL.ipynb` in Jupyter or Google Colab. Make sure `J
 ## Results
 
 The final SLX model includes `RLS`, `AHH`, `TPT`, `APD`, and their spatial lags as predictors of poverty rate, with diagnostics confirming normally distributed residuals and acceptable multicollinearity levels after revision.
-
-## License
-
-*(add your license here, e.g. MIT)*
